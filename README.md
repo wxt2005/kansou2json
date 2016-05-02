@@ -2,11 +2,11 @@
 
 A simple script to convert [kansou.me](http://www.kansou.me)'s bangumi data to json file.
 
-## Usage
+## USAGE
 
 ```bash
 npm install
-npm statr
+npm start
 ```
 
 ## LICENSE
